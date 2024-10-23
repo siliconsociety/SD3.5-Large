@@ -8,4 +8,6 @@
     ```python
     huggingface-cli login
     ```
-6. Run the code and have fun making images!
+6. Setup a virtual environment
+7. Install the dependencies in the requirements.txt
+8. Run the code and have fun making images!
